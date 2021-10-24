@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+
+    padding: 0px;
+}
+
+.caja_grande{
+    background-color: aquamarine;
+    width: 100%;
+    margin-top: 1%;
+    display: flex;
+
+    justify-content: space-around;
+}
+
+.de_color_amarillo{
+    background-color: chartreuse;
+    color: #0d0025;
+
+    width: 24%;
+    height: 50vh;
+    font-size: 30px;
+}
+
+.de_color_azul{
+    background-color: #2196f3;
+    color: #850000;
+
+    width: 24%;
+    height: 50vh;
+    font-size: 30px;
+
+}
